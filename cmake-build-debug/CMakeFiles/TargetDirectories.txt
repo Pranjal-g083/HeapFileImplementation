@@ -1,0 +1,3 @@
+D:/Labs/post midsem lab3/cmake-build-debug/CMakeFiles/post_midsem_lab3.dir
+D:/Labs/post midsem lab3/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Labs/post midsem lab3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
